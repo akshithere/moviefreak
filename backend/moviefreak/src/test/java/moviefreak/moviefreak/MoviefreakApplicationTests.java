@@ -1,0 +1,13 @@
+package moviefreak.moviefreak;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MoviefreakApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
